@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdaptiveQueue</string>
+    <string name="label_username_or_email">Username or Email</string>
+    <string name="hint_username_or_email">Enter username or email</string>
+    <string name="label_password">Password</string>
+    <string name="action_login">Login</string>
+</resources>
